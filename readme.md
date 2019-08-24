@@ -1,3 +1,5 @@
+> Upstream has added direct upload for AMO with [sindresorhus/hide-files-on-github/pull#74](https://github.com/sindresorhus/hide-files-on-github/pull/74), So this fork would be archived. 
+
 # Mask Files on GitHub <img src="screenshot.png" width="318" align="right">
 
 Ported from [Hide Files on GitHub]
